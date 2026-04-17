@@ -1,11 +1,8 @@
 # Content Strategy
 
-## Content Pillars
+## Content Pillar
 
-My main content pillars are:
 - Solo travel and what the road teaches you about yourself
-- [pillar 2 — TBD]
-- [pillar 3 — TBD]
 
 ## Primary Platforms
 
@@ -20,8 +17,12 @@ My primary platforms are:
 ## Brand Voice
 
 My brand voice should feel:
-- Authentic
-- Real
+- Gritty
+- Educated
+- Rebellious
+
+## Persona
+
 - Non-traditional biker
 
 ## Workflow Preference
