@@ -1,11 +1,11 @@
-# Content Strategy Template
+# Content Strategy
 
 ## Content Pillars
 
 My main content pillars are:
-- [pillar 1]
-- [pillar 2]
-- [pillar 3]
+- Solo travel and what the road teaches you about yourself
+- [pillar 2 — TBD]
+- [pillar 3 — TBD]
 
 ## Primary Platforms
 
@@ -14,18 +14,17 @@ My primary platforms are:
 - Instagram
 - TikTok
 - LinkedIn
-- X / Threads / Facebook (whichever applies)
+- Threads
+- Facebook
 
 ## Brand Voice
 
 My brand voice should feel:
-- [3 to 7 adjectives]
+- Authentic
+- Real
+- Non-traditional biker
 
 ## Workflow Preference
 
 My ideal workflow preference:
-- maximum automation with final approval
-OR
-- draft-first with manual refinement
-OR
-- mixed mode depending on platform
+- Maximum automation with final approval
